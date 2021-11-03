@@ -27,15 +27,14 @@ cloudIntent.json
 ```json
 
 {
-
 "examples": [
-{'text': 'o que é cloud'},
-{'text': 'O que é cloud?'},
-{'text': 'você sabe o que é cloud?'},
-{'text': 'eu queria saber o que é cloud computing'},
-{'text': 'voce sabe sobre cloud computing'},
-{'text': 'me fale um pouco sobre cloud computing'}
-	]
+{"text": "o que é cloud"},
+{"text": "O que é cloud?"},
+{"text": "você sabe o que é cloud?"},
+{"text": "eu queria saber o que é cloud computing"},
+{"text": "voce sabe sobre cloud computing"},
+{"text": "me fale um pouco sobre cloud computing"}
+]
 }
 ```
 
