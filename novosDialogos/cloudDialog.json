@@ -1,0 +1,21 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Cloud é computação em nuvem"
+          },
+          {
+            "text": "Quando utilizamos sites como Google Drive, estamos utilizando um armazenamento que não é nosso, isso é computação em nuvem"
+          },
+          {
+            "text": "A IBM oferece diversos serviços em nuvem gratuitos"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}
