@@ -19,22 +19,24 @@ O usuário deve dar um pull request na pasta novosDialogos.
 
 São necessários 2 arquivos:
 
-1. Arquivo txt com o novo #Intent e suas amostras de perguntas do usuário (No mínimo 10, escritas das mais diversa formas). Por favor, seguir exatamente o padrão abaixo.
+1. Arquivo JSON com o novo #Intent e suas amostras de perguntas do usuário (No mínimo 10, escritas das mais diversa formas). Por favor, seguir exatamente o padrão abaixo.
 
 EX:
 
-cloudIntent.txt
-```
+cloudIntent.json
+```json
 
+{
 
+"examples": [
 {'text': 'o que é cloud'},
 {'text': 'O que é cloud?'},
 {'text': 'você sabe o que é cloud?'},
 {'text': 'eu queria saber o que é cloud computing'},
 {'text': 'voce sabe sobre cloud computing'},
 {'text': 'me fale um pouco sobre cloud computing'}
-
-
+	]
+}
 ```
 
 
